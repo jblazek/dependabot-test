@@ -1,1 +1,1 @@
-FROM mcr.microsoft.com/dotnet/aspnet:5.0.7-alpine3.13@sha256:5bfb444c87f3618a4db0af8e60fdfded7b0dbc6b09506e6ddba69a09c49b2086 AS base
+FROM mcr.microsoft.com/dotnet/aspnet:6.0-alpine3.13@sha256:c6d4f6b97ce75961f5b2c1ff7255950413b7cb3eab1fa78ca3d070a6506ed661 AS base
